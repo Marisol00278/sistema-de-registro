@@ -5,6 +5,7 @@
   Para ekecutar el sistema, debes poner:
 
  ```npm install react```
+
   
 Índice
 - [Título e imagen de portada](#Título-e-imagen-de-portada)
