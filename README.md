@@ -1,6 +1,10 @@
 <h1> Sistema de Registro/h1>
 
 - Estado del Proyecto: En construcción.
+
+  Para ekecutar el sistema, debes poner:
+
+ ```npm install react```
   
 Índice
 - [Título e imagen de portada](#Título-e-imagen-de-portada)
